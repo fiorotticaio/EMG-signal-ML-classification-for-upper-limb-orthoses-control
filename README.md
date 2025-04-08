@@ -24,10 +24,4 @@ The project outputs classification metrics, including precision, recall, F1-scor
 
 ## 🤝 Collaboration
 
-This project was developed in collaboration with:
-
-- [Caio Fiorotti](https://github.com/fiorotticaio)  
-- [Matheus Schreiber](https://github.com/matheusschreiber)  
-- [Vinicius Cole](https://github.com/viniciuscole)  
-
 If you have any questions or suggestions, feel free to open an **issue** or get in touch! 🚀
