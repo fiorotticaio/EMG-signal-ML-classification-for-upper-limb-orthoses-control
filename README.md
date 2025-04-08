@@ -8,7 +8,7 @@ This project focuses on the classification of movements using electromyographic 
 
 ### Video Presentation
 
-A video summarizing the work can be found [here](https://drive.google.com/file/d/12EW5_T6KFY85m31tm1gMMkhxrX2OrLaB/view?usp=sharing)
+A video summarizing the work can be found [here](https://youtu.be/2zszbTIG3s8)
 
 ## 📂 Content
 
